@@ -26,13 +26,16 @@ The following MPUs are available for Early Access customers, and are not yet rel
 
 ### SAMA7D65-V/7EW - SoC with TFBGA375 package and 0.4mm pitch
 * Documentation
-  * [SAMA7D65 SoC Datasheet](SAMA7D6%20Series%20Data%20Sheet%20-%2060001851E.pdf)
-  * [SAMA7D65 Errata](SAMA7D6%20Series%20Silicon%20Errata%20and%20Data%20Sheet%20-%2080001131H.pdf)
-* Find the other available collaterals (IBIS, BSDL, Application notes) on the Microchip [SAMA7D65 product page](https://www.microchip.com/en-us/product/SAMA7D65)
+  * [SAMA7D65 SoC Datasheet](Documentation/)
+  * [SAMA7D65 Errata](Documentation/)
+* Hardware
+  * [TFBGA375 BSDL file](Hardware/)
+* Find the other available collaterals (IBIS, Application notes) on the Microchip [SAMA7D65 product page](https://www.microchip.com/en-us/product/SAMA7D65)
 
 ### SAMA7D65D5M and SAMA7D65D4G - Specific Collaterals
 * Documentation
-  * [SAMA7D65 SiP Datasheet](SAMA7D6%20Series%20SiP%20Data%20Sheet%20-%2060001853D.pdf) including the 512Mb and 4Gb SiPs
-  * [SAMA7D65 Errata](SAMA7D6%20Series%20Silicon%20Errata%20and%20Data%20Sheet%20-%2080001131H.pdf) including the 512Mb and 4Gb SiPs
-  * [SiP 512Mb and 4Gb SAM-BA add-on](sam-ba_3.9.1_sama7d65d5m-d4g_addon.zip) adding the support for the 512Mb and 4Gb SiPs
+  * [SAMA7D65 SiP Datasheet](Documentation/) including the 512Mb and 4Gb SiPs
+  * [SAMA7D65 Errata](Documentation/) including the 512Mb and 4Gb SiPs
+* Software
+  * [SiP 512Mb and 4Gb SAM-BA add-on](Software/sam-ba_3.9.1_sama7d65d5m-d4g_addon.zip) adding the support for the 512Mb and 4Gb SiPs
 * Find the other available collaterals (IBIS, BSDL, Application notes) on the Microchip [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
