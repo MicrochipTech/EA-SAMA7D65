@@ -17,8 +17,10 @@ The following MPUs are already released to production. For more information abou
 * SoC (System On Chip)
   * [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
 * SiP (System In Package)
+  * [SAMA7D65D5M](https://www.microchip.com/en-us/product/SAMA7D65D5M): Released to Production (RTP)
   * [SAMA7D65D1G](https://www.microchip.com/en-us/product/SAMA7D65D1G): Released to Production (RTP)
   * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G): Released to Production (RTP)
+  * [SAMA7D65D4G](https://www.microchip.com/en-us/product/SAMA7D65D4G): Released to Production (RTP)
   
   
 ## MPUs in Early Access Phase (EA)
