@@ -15,27 +15,17 @@ Microchip provides an optimized power management solution for the SAMA7D65. The 
 ## MPUs already released to production (RTP)
 The following MPUs are already released to production. For more information about these parts, please visit the respective product pages on Microchip.com.
 * SoC (System On Chip)
-  * [SAMA7D65](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
+  * [SAMA7D65-V/4HB](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
+  * [SAMA7D65-E/4HB](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
+  * [SAMA7D65-V/4HBVAO](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
+  * [SAMA7D65-V/7EW](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
 * SiP (System In Package)
-  * [SAMA7D65D1G](https://www.microchip.com/en-us/product/SAMA7D65D1G): Released to Production (RTP)
-  * [SAMA7D65D2G](https://www.microchip.com/en-us/product/SAMA7D65D2G): Released to Production (RTP)
-  
+  * [SAMA7D65D1G-V/4UB](https://www.microchip.com/en-us/product/SAMA7D65D1G): Released to Production (RTP)
+  * [SAMA7D65D2G-V/4UB](https://www.microchip.com/en-us/product/SAMA7D65D2G): Released to Production (RTP)
+  * [SAMA7D65D4G-V/4UB](https://www.microchip.com/en-us/product/SAMA7D65D4G): Released to Production (RTP)
   
 ## MPUs in Early Access Phase (EA)
 The following MPUs are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
 
-### SAMA7D65-V/7EW - SoC with TFBGA375 package and 0.4mm pitch
-* Documentation
-  * [SAMA7D65 SoC Datasheet](Documentation/)
-  * [SAMA7D65 Errata](Documentation/)
-* Hardware
-  * [TFBGA375 BSDL file](Hardware/)
-* Find the other available collaterals (IBIS, Application notes) on the Microchip [SAMA7D65 product page](https://www.microchip.com/en-us/product/SAMA7D65)
-
-### SAMA7D65D5M and SAMA7D65D4G - Specific Collaterals
-* Documentation
-  * [SAMA7D65 SiP Datasheet](Documentation/) including the 512Mb and 4Gb SiPs
-  * [SAMA7D65 Errata](Documentation/) including the 512Mb and 4Gb SiPs
-* Software
-  * [SiP 512Mb and 4Gb SAM-BA add-on](Software) adding the support for the 512Mb and 4Gb SiPs
-* Find the other available collaterals (IBIS, BSDL, Application notes) on the Microchip [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
+### SAMA7D65D5M-V/4UB
+The SAMA7D65D5M-V/4UB related collaterals (DataSheet, Errata, IBIS, BSDL etc) can be found on the [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
