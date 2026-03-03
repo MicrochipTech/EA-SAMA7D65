@@ -29,3 +29,14 @@ The following MPUs are available for Early Access customers, and are not yet rel
 
 ### SAMA7D65D5M-V/4UB
 The SAMA7D65D5M-V/4UB related collaterals (DataSheet, Errata, IBIS, BSDL etc) can be found on the [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
+
+### SAMA7D65D4G-V/XHB
+The SAMA7D65D4G-V/XHB is the high density TFBGA442 version of the SAMA7D65D4G-V/4UB. It comes with a 16x16 balls package, and a 0.5mm pitch. You can find below the related collaterals:
+* Documentation
+  * [SAMA7D65D4G SiP High Density Datasheet](Documentation/)
+  * [SAMA7D65D4G SiP High Density Errata sheet](Documentation/)
+* BSDL
+  * [SAMA7D65D4G SiP High Density TFBGA442 BSDL models](Hardware/)
+* IBIS
+  * [SAMA7D65D4G SiP High Density TFBGA442 IBIS models](Hardware/)
+* Find the other available collaterals on the Microchip [SAMA7D65D4G SiP page](https://www.microchip.com/en-us/product/sama7d65d4g)
