@@ -20,15 +20,13 @@ The following MPUs are already released to production. For more information abou
   * [SAMA7D65-V/4HBVAO](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
   * [SAMA7D65-V/7EW](https://www.microchip.com/en-us/product/SAMA7D65): Released to Production (RTP)
 * SiP (System In Package)
+  * [SAMA7D65D5M-V/4UB](https://www.microchip.com/en-us/product/SAMA7D65D5M): Released to Production (RTP)
   * [SAMA7D65D1G-V/4UB](https://www.microchip.com/en-us/product/SAMA7D65D1G): Released to Production (RTP)
   * [SAMA7D65D2G-V/4UB](https://www.microchip.com/en-us/product/SAMA7D65D2G): Released to Production (RTP)
   * [SAMA7D65D4G-V/4UB](https://www.microchip.com/en-us/product/SAMA7D65D4G): Released to Production (RTP)
   
 ## MPUs in Early Access Phase (EA)
 The following MPUs are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
-
-### SAMA7D65D5M-V/4UB
-The SAMA7D65D5M-V/4UB related collaterals (DataSheet, Errata, IBIS, BSDL etc) can be found on the [SAMA7D65D2G product page](https://www.microchip.com/en-us/product/SAMA7D65D2G)
 
 ### SAMA7D65D4G-V/XHB
 The SAMA7D65D4G-V/XHB is the high density TFBGA442 version of the SAMA7D65D4G-V/4UB. It comes with a 16x16 balls package, and a 0.5mm pitch. You can find below the related collaterals:
