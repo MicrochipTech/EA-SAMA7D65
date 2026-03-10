@@ -28,8 +28,9 @@ The following MPUs are already released to production. For more information abou
 ## MPUs in Early Access Phase (EA)
 The following MPUs are available for Early Access customers, and are not yet released to production. More information about these parts can be found through the links below
 
-### SAMA7D65D4G-V/XHB
-The SAMA7D65D4G-V/XHB is the high density TFBGA442 version of the SAMA7D65D4G-V/4UB. It comes with a 16x16 balls package, and a 0.5mm pitch. You can find below the related collaterals:
+### SAMA7D65D4G-V/XHB (+D2G/D1G)
+The SAMA7D65D4G-V/XHB is the high density TFBGA442 version of the SAMA7D65D4G-V/4UB. It comes with a 16x16 balls package, and a 0.5mm pitch.
+The 2Gb and 1Gb versions will soon be available for Early Access and are already described below in the related collaterals:
 * Documentation
   * [SAMA7D65D4G SiP High Density Datasheet](Documentation/)
   * [SAMA7D65D4G SiP High Density Errata sheet](Documentation/)
